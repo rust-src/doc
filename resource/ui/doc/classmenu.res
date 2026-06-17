@@ -1,4 +1,4 @@
-"Resource/UI/ClassMenu.res"
+"Resource/UI/doc/ClassMenu.res"
 {
 	"class"
 	{
