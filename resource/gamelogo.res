@@ -23,7 +23,7 @@ Resource/GameLogo.res
 		fieldName	Logo
 		xpos		0
 		ypos		0
-		zpos		50
+		zpos		99
 		wide		400
 		tall		100
 		visible		1
