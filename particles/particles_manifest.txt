@@ -11,6 +11,9 @@ particles_manifest
 	"file"		"particles/water_impact.pcf"
 	"file"		"particles/waterdrips.pcf"
 	
+	
+	"file"		"particles/devtest.pcf" // for weapon smoke from ep2
+	
 	// Mapbase particles - Add these to your own mod's particle manifest file (or copy this file)
 	"file"		"particles/rain_fx.pcf"
 }
