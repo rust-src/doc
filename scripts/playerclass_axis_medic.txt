@@ -1,7 +1,7 @@
 PlayerClassDatafile
 {
 	// FilePLayerClassInfo_t members
-	"printname"			"MEDIC"	
+	"printname"			"Medic"	
 	"playermodel"		"models/player/german_assault.mdl"
 	"selectcmd"			"cls_medic"
 
@@ -11,7 +11,11 @@ PlayerClassDatafile
 	"team"				"AXIS"
 
 	// Weapon Info
-	"primaryweapon"		"c96"
+	"primaryweapon"			"trenchgun"
+	"secondaryweapon"		"c96"
+	"meleeweapon"			"medkit"
+	"grenadetype"			"smoke_ger"
+	"numgrens2"				"3"
 	
 	// Model Info
 	"helmetgroup"		"0"

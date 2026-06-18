@@ -1,7 +1,7 @@
 PlayerClassDatafile
 {
 	// FilePLayerClassInfo_t members
-	"printname"			"MEDIC"	
+	"printname"			"Medic"	
 	"playermodel"		"models/player/american_assault.mdl"
 	"selectcmd"			"cls_medic"
 
@@ -11,8 +11,12 @@ PlayerClassDatafile
 	"team"				"ALLIES"
 
 	// Weapon Info
-	"primaryweapon"		"c96"
-
+	"primaryweapon"			"trenchgun"
+	"secondaryweapon"		"colt"
+	"meleeweapon"			"medkit"
+	"grenadetype"			"smoke_ger"
+	"numgrens2"				"3"
+	
 	// Model Info
 	"helmetgroup"		"0"
 	"hairgroup"			"1"
