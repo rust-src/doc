@@ -5,7 +5,7 @@ WeaponData
 	"MuzzleFlashType"		"0"
 	"ViewModelFOV"			"45"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"100"
 	"Recoil"			"10.0"
@@ -26,7 +26,7 @@ WeaponData
 	"DefaultAmmoClips"		"2"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_k98_rg.mdl"
+	"viewmodel"			"models/weapons/c_k98_rg.mdl"
 	"playermodel"			"models/weapons/w_k98_rg.mdl"
 
 	//Player Animation

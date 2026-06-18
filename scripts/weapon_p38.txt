@@ -8,7 +8,7 @@ WeaponData
 	"vm_normal_offset" 		"-.5 -1 1.2"
 	"vm_prone_offset" 		"-4 -3.5 1.9"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 
 	// Weapon characteristics:
 	"Damage"			"40"
@@ -38,7 +38,7 @@ WeaponData
 	"HudClipBulletHeight"		"17"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_p38.mdl"
+	"viewmodel"			"models/weapons/c_p38.mdl"
 	"playermodel"			"models/weapons/w_p38.mdl"
 
 	//Player Animation

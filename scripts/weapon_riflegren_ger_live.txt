@@ -5,7 +5,7 @@ WeaponData
 	"MuzzleFlashScale"		"0"
 	"ViewModelFOV"			"45"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"180"
 	"Recoil"			"0"
@@ -22,7 +22,7 @@ WeaponData
 	"bucket_position"		"1"
 	
 	// Weapon model
-	"viewmodel"			"models/weapons/v_k98_rglive.mdl"
+	"viewmodel"			"models/weapons/c_k98_rglive.mdl"
 	"playermodel"			"models/weapons/p_k98_rg_grenade.mdl"
 
 	//Player Animation

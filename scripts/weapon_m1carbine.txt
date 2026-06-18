@@ -8,7 +8,7 @@ WeaponData
 	"vm_normal_offset" 		"-3.5 -2.5 1"
 	"vm_prone_offset" 		"-6 -5 1.5"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 
 
 	// Weapon characteristics:
@@ -41,7 +41,7 @@ WeaponData
 	"HudClipBulletHeight"		"9"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_m1carbine.mdl"
+	"viewmodel"			"models/weapons/c_m1carbine.mdl"
 	"playermodel"			"models/weapons/w_m1carb.mdl"
 
 	//Player Animation

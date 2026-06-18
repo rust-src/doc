@@ -6,7 +6,7 @@ WeaponData
 	"ViewModelFOV"			"45"
 	"vm_normal_offset" 		"6 0 0"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"0"
 	"Recoil"			"0"
@@ -23,7 +23,7 @@ WeaponData
 	"bucket_position"		"1"
 	
 	// Weapon model
-	"viewmodel"			"models/weapons/v_smoke_ger.mdl"
+	"viewmodel"			"models/weapons/c_smoke_ger.mdl"
 	"playermodel"			"models/weapons/p_smoke_ger.mdl"
 
 	//Player Animation

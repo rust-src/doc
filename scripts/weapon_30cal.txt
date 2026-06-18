@@ -8,7 +8,7 @@ WeaponData
 	"vm_normal_offset" 		"1.5 -.5 0"
 	"vm_prone_offset" 		"2 -1 .5"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 
 	// Weapon characteristics:
 	"Damage"			"85"
@@ -37,7 +37,7 @@ WeaponData
 	"Tracer"			"1"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_30cal.mdl"
+	"viewmodel"			"models/weapons/c_30cal.mdl"
 	"playermodel"			"models/weapons/w_30cal.mdl"
 
 //	"reloadmodel"			"models/weapons/w_30calsr.mdl"

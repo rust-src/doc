@@ -9,7 +9,7 @@ WeaponData
 	"vm_prone_offset" 		"-1.5 -5.7 4.5"
 	"vm_ironsight_offset"		"6 -6.95 5.08"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 
 	// Weapon characteristics:
 	"Damage"			"80"
@@ -41,7 +41,7 @@ WeaponData
 	"HudClipBulletHeight"		"7"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_garand.mdl"
+	"viewmodel"			"models/weapons/c_garand.mdl"
 	"playermodel"			"models/weapons/w_garand.mdl"
 
 	//Player Animation

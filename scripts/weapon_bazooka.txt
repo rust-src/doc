@@ -5,7 +5,7 @@ WeaponData
 	"MuzzleFlashType"		"4"
 	"ViewModelFOV"			"45"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"100"
 	"Recoil"			"10.0"
@@ -25,7 +25,7 @@ WeaponData
 	"DefaultAmmoClips"		"5"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_bazooka.mdl"
+	"viewmodel"			"models/weapons/c_bazooka.mdl"
 	"playermodel"			"models/weapons/w_bazooka.mdl"
 
 	//Player Animation

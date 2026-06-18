@@ -9,7 +9,7 @@ WeaponData
 	"vm_prone_offset"		"-6 -4.3 2"
 	"vm_ironsight_offset"	"-3.5 -6.675 3.85"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 
 	// Weapon characteristics:
 	"Damage"			"110"
@@ -41,7 +41,7 @@ WeaponData
 	"HudClipBulletHeight"		"11"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_k98.mdl"
+	"viewmodel"			"models/weapons/c_k98.mdl"
 	"playermodel"			"models/weapons/w_k98.mdl"
 
 	//Player Animation

@@ -5,7 +5,7 @@ WeaponData
 	"MuzzleFlashType"		"0"
 	"ViewModelFOV"			"45"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"100"
 	"Recoil"			"10.0"
@@ -26,7 +26,7 @@ WeaponData
 	"DefaultAmmoClips"		"2"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_garand_rg.mdl"
+	"viewmodel"			"models/weapons/c_garand_rg.mdl"
 	"playermodel"			"models/weapons/w_garand_gren.mdl"
 
 	//Player Animation

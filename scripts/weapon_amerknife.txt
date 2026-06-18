@@ -6,7 +6,7 @@ WeaponData
 	"ViewModelFOV"			"45"
 	"vm_normal_offset" 		"3 1 0"
 	"default_team"			"Allies"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"60"
 	"Recoil"			"0"
@@ -24,7 +24,7 @@ WeaponData
 	"bucket_position"		"1"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_amerk.mdl"
+	"viewmodel"			"models/weapons/c_amerk.mdl"
 	"playermodel"			"models/weapons/w_amerk.mdl"
 
 	//Player Animation

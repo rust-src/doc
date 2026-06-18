@@ -9,7 +9,7 @@ WeaponData
 	"vm_prone_offset" 		"-3.5 -2 2.2"
 	"default_team"			"Allies"
 
-
+	"uses_hands"			"1"
 
 	// Weapon characteristics:
 	"Damage"			"40"
@@ -39,7 +39,7 @@ WeaponData
 	"HudClipBulletHeight"		"17"
 
 	//Weapon Model
-	"viewmodel"			"models/weapons/v_colt.mdl"
+	"viewmodel"			"models/weapons/c_colt.mdl"
 	"playermodel"			"models/weapons/w_colt.mdl"
 
 	//Player Animation

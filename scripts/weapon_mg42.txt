@@ -8,7 +8,7 @@ WeaponData
 	"vm_normal_offset" 		".8 1 -1.5"
 	"vm_prone_offset" 		"-.5 -.5 -1"
 	"default_team"			"Axis"
-
+	"uses_hands"			"1"
 	// Weapon characteristics:
 	"Damage"			"85"
 	"Accuracy"			"0.2"
@@ -36,7 +36,7 @@ WeaponData
 	"Tracer"			"1"
 
 	//Weapon Model
-	"viewmodel"				"models/weapons/v_mg42.mdl"
+	"viewmodel"				"models/weapons/c_mg42.mdl"
 	"playermodel"			"models/weapons/w_mg42bu.mdl"
 
 	"deployedmodel"			"models/weapons/w_mg42bd.mdl"
