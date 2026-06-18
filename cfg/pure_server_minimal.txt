@@ -59,6 +59,7 @@ whitelist
 	scripts/weapons/weapon_spring.txt		trusted_source
 	scripts/weapons/weapon_thompson.txt		trusted_source
 	scripts/weapons/weapon_greasegun.txt		trusted_source
+	scripts/weapons/weapon_m3.txt		trusted_source
 	models/player/german_rifleman.mdl		trusted_source
 	models/player/german_assault.mdl		trusted_source
 	models/player/german_support.mdl		trusted_source
