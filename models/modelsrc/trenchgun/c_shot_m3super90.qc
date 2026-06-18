@@ -6,10 +6,6 @@ $bodygroup "studio"
 {
 	studio "v_winchester.smd"
 }
-$bodygroup "arms"
-{
-	studio "c_arms_dod.smd"
-}
 
 $surfaceprop "default"
 
