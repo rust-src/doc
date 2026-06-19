@@ -48,7 +48,7 @@ WeaponData
 
 	"clip_size"			"8"
 	
-	"primary_ammo"			"DOD_AMMO_SUBMG" //"BULLET_PLAYER_BUCKSHOT"
+	"primary_ammo"			"DOD_AMMO_SHOTGUN" //"BULLET_PLAYER_BUCKSHOT"
 	"secondary_ammo"		"None"
 
 	"weight"			"20"
@@ -66,49 +66,47 @@ WeaponData
 	// Weapon Sprite data is loaded by the Client DLL.
 	TextureData
 	{
-		"weapon"
-		{
-				"font"		"CSweaponsSmall"
-				"character"	"K"
-		}
 		"weapon_s"
 		{	
-				"font"		"CSweapons"
-				"character"	"K"
-		}
+			"file"		"sprites/hud/doc_weapons"
+			"x"		"0"
+			"y"		"0"
+			"width"		"350"
+			"height"	"122"
+			}
+		"weapon_g"
+		{	
+			"file"		"sprites/hud/doc_weapons_glow"
+			"x"		"0"
+			"y"		"0"
+			"width"		"350"
+			"height"	"122"
+			}
 		"ammo"
 		{
-				"font"		"CSTypeDeath"
-				"character"		"J"
+			"file"		"sprites/hud/clips_bullets_doc"
+			"x"		"0"
+			"y"		"0"
+			"width"		"350"
+			"height"	"122"
 		}
-		"crosshair"
+
+		"ammo2"
 		{
-				"file"		"sprites/crosshairs"
-				"x"			"0"
-				"y"			"48"
-				"width"		"24"
-				"height"	"24"
+			"file"		"sprites/hud/clips_bullets_doc"
+			"x"		"0"
+			"y"		"0"
+			"width"		"350"
+			"height"	"122"
 		}
+
 		"autoaim"
 		{
-				"file"		"sprites/crosshairs"
-				"x"			"0"
-				"y"			"48"
-				"width"		"24"
-				"height"	"24"
-		}
-	}
-	ModelBounds
-	{
-		Viewmodel
-		{
-			Mins	"-13 -3 -13"
-			Maxs	"26 10 -3"
-		}
-		World
-		{
-			Mins	"-9 -8 -5"
-			Maxs	"28 9 9"
+			"file"		"sprites/hud/clips_bullets"
+			"x"		"404"
+			"y"		"193"
+			"width"		"36"
+			"height"	"184"
 		}
 	}
 }
